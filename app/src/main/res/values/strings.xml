@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodMate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_info">Ariel Tzur</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="app_label">FoodMate</string>
+    <string name="search_hint">Search for cities</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="first_map_activity_title">Find your city</string>
+    <string name="firstbutton">Become a host</string>
+</resources>
